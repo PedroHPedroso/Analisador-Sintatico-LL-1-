@@ -9,8 +9,8 @@ import os
 # 5. F  -> id | ( E )
 
 # Caminhos dos arquivos para a tabela de parsing e a entrada
-caminho_tabela = 'C:/Users/pedro/OneDrive/Área de Trabalho/Faculdade/TrabalhosCompiladores/tabela.csv'
-caminho_entrada = 'C:/Users/pedro/OneDrive/Área de Trabalho/Faculdade/TrabalhosCompiladores/entrada.txt'
+caminho_tabela = 'C:/Users/pedro/OneDrive/Área de Trabalho/Faculdade/TrabalhosCompiladores/AnalisadorSintaticoLL/tabela.csv'
+caminho_entrada = 'C:/Users/pedro/OneDrive/Área de Trabalho/Faculdade/TrabalhosCompiladores/AnalisadorSintaticoLL/entrada.txt'
 
 # Função para ler a tabela LL(1) a partir de um arquivo CSV
 def ler_tabela_LL1(arquivo_csv):
