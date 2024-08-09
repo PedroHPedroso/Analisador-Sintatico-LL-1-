@@ -1,0 +1,6 @@
+, id, +, *, (, ), EMPTY
+E, T E', , , T E', , 
+E', , + T E', V, , V, V
+T, F T', , , F T', , 
+T', , V, * F T', , V, V
+F, id, , , ( E ), , 
